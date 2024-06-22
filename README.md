@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/django-violet ?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/tensorflow-palegreen ?style=for-the-badge&logo=tensorflow&logoColor=violet"/>
 <img src="https://img.shields.io/badge/pytorch-aqua ?style=for-the-badge&logo=pytorch&logoColor=black"/>
-<img src="https://img.shields.io/badge/Keras-violet ?style=for-the-badge&logo=keras&logoColor=white"/>
+
 
 
 
