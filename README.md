@@ -17,7 +17,7 @@
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/wudbuw)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id830325246)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id1034524879)
 [![Vkontakte](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=4F7DB3)](https://t.me/wudbuw)
 
 
