@@ -1,6 +1,6 @@
 
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtvYjc0eHJ1Mmh3eWNwZmVscHN0MDhieG9pb2txazJiNTB5aDNvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1ld20xcmQ1aDI1MjV6OHlraTZ3am9rZ2ZuOGx3NTFiZXYzdTc3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGWFVvwJybDwTlnTSS/giphy.gif)
 
 ### My technology stack:
 <img src="https://img.shields.io/badge/Python-aqua ?style=for-the-badge&logo=python&logoColor=black"/><img src="https://img.shields.io/badge/HTML-black ?style=for-the-badge&logo=htmx&logoColor=white"/>
