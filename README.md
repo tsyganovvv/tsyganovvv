@@ -58,25 +58,6 @@
 
 ---
 
-### 📈 My Experience
-
-#### **🎓 SFU Token - University Authentication System** 
-
-> A full-stack Django application for university authentication and token management system
-
-[![View Project](https://img.shields.io/badge/🚀-View_Project-090909?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tsyganovvv/sfu-token)
-
-**Key:**
-- 🔐 **Secure Authentication System** for university students and staff
-- 🎫 **Token Management** with expiration and validation
-- 📱 **Responsive Design** using Bootstrap CSS framework
-- 🗃️ **Database Models** for user profiles and token storage
-- ⚡ **Django Admin** integration for easy management
-
-**Tech Stack:** `Python` `Django` `HTML` `CSS` `Bootstrap` `SQLite` `Git` `Docker` `Gunicorn`
-
----
-
 #### **💼 Full-Stack Django Development**
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjN4Z2w1b2VxY2V4dWJ5eGd5cGJ5c3V4d2Z6dGJ0b2V6Y2N2eGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="300" alt="Django Development">
