@@ -22,6 +22,7 @@
 
 #### **Backend & DevOps**
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FFD43B)
+![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=092E20)
 ![Django REST Framework](https://img.shields.io/badge/DRF-090909?style=for-the-badge&logo=django&logoColor=red)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-090909?style=for-the-badge&logo=gunicorn&logoColor=488214)
