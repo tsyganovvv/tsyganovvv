@@ -54,11 +54,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tsyganovvv&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsyganovvv&layout=compact&theme=radical&hide_border=true" alt="Your Top Languages"/>
-</p>
-
+</div>
 ---
 
 #### **💼 Full-Stack Django Development**
