@@ -56,8 +56,8 @@
 
 <div align="center">
   <a href="https://github.com/tsyganovvv">
-    <img src="https://github-readme-stats.vercel.app/api?username=tsyganovvv&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsyganovvv&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsyganovvv&layout=compact&theme=radical&hide_border=true" width="48%"/>
+    <img src="https://skillicons.dev/icons?i=fastapi,django,pytorch,tensorflow,postgres,docker,nginx,git,python,html,js,css&theme=dark" width="100%"/>
   </a>
 </div>
 
