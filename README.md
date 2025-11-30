@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 I’m currently studying at **Siberian Federal University (SFU)**
-- 💻 My main focus is **Full-Stack development with Django**
+- 💻 My main focus is **Full-Stack development with Django and FastAPI**
 - 🤖 I'm deeply interested in **Data Analysis, NLP, and Computer Vision**
 - 🐳 I have experience in deploying applications with **Docker, Gunicorn, and Nginx**
 - 🎯 My goal is to build efficient, scalable web applications and intelligent systems
@@ -62,16 +62,18 @@
 
 ---
 
-#### **💼 Full-Stack Django Development**
+#### **💼 Full-Stack Development**
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjN4Z2w1b2VxY2V4dWJ5eGd5cGJ5c3V4d2Z6dGJ0b2V6Y2N2eGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="300" alt="Django Development">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjN4Z2w1b2VxY2V4dWJ5eGd5cGJ5c3V4d2Z6dGJ0b2V6Y2N2eGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="300" alt="Development">
 </p>
 
 I specialize in building complete web applications from the ground up using the Django framework:
 - Developed robust backend systems with **Django ORM**, **Views**, and **Forms**
 - Built RESTful APIs using **Django REST Framework (DRF)**
+- Created fast and efficient APIs with **FastAPI** for real-time applications
+- Designed and implemented database schemas and business logic
 - Created responsive frontend interfaces with **HTML, CSS, and JavaScript**
-- **Deployed and configured production servers** using **Gunicorn + Nginx**
+- **Deployed and configured production servers** using **Gunicorn/Uvicorn + Nginx**
 - Containerized applications with **Docker** for consistent deployment
 
 #### **🤖 Data Science & AI Projects**
