@@ -56,7 +56,7 @@
 
 <div align="center">
   <a href="https://github.com/tsyganovvv">
-    <img src="https://skillicons.dev/icons?i=fastapi,django,pytorch,tensorflow,postgres,docker,nginx,git,python,html,js,css&theme=dark" width="100%"/>
+    <img src="https://skillicons.dev/icons?i=fastapi,django,pytorch,tensorflow,postgres,docker,nginx,git,python,js,html,css&theme=dark" width="100%"/>
   </a>
 </div>
 
