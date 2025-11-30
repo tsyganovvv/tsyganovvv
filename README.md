@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Vladimir Tsyganov 👋</h1>
-<h3 align="center">A passionate Full-Stack Django Developer and AI Enthusiast from Russia</h3>
+<h3 align="center">A passionate Full-Stack Developer and AI Enthusiast from Russia</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FwZ2J0cGJ2b2NtY2VtN2V6cGJ6eHpjeG0wa2lrb2RmdnJ5dGZ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400"/>
