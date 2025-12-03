@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 I’m currently studying at **Siberian Federal University (SFU)**
-- 💻 My main focus is **Full-Stack development with Django and FastAPI**
+- 💻 My main focus is **Full-Stack development with Django and FastAPI / React**
 - 🤖 I'm deeply interested in **Data Analysis, NLP, and Computer Vision**
 - 🐳 I have experience in deploying applications with **Docker, Gunicorn, and Nginx**
 - 🎯 My goal is to build efficient, scalable web applications and intelligent systems
@@ -74,7 +74,7 @@ I specialize in building complete web applications from the ground up using the 
 - Built RESTful APIs using **Django REST Framework (DRF)**
 - Created fast and efficient APIs with **FastAPI** for real-time applications
 - Designed and implemented database schemas and business logic
-- Created responsive frontend interfaces with **HTML, CSS, and JavaScript**
+- Creating dynamic user interfaces with React, HTML, CSS, and JavaScript
 - **Deployed and configured production servers** using **Gunicorn/Uvicorn + Nginx**
 - Containerized applications with **Docker** for consistent deployment
 
