@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 I’m currently studying at **Siberian Federal University (SFU)**
-- 💻 My main focus is **Full-Stack development with Django and FastAPI / React**
+- 💻 My main focus is **Full-Stack development with Django / FastAPI and React**
 - 🤖 I'm deeply interested in **Data Analysis, NLP, and Computer Vision**
 - 🐳 I have experience in deploying applications with **Docker, Gunicorn, and Nginx**
 - 🎯 My goal is to build efficient, scalable web applications and intelligent systems
