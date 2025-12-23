@@ -14,7 +14,7 @@
 - 🤖 I'm deeply interested in **Data Analysis, NLP, and Computer Vision**
 - 🐳 I have experience in deploying applications with **Docker, Gunicorn, and Nginx**
 - 🎯 My goal is to build efficient, scalable web applications and intelligent systems
-- 📫 How to reach me: tsyganov.vv0228@gmail.com**
+- 📫 How to reach me: tsyganov.vv0228@gmail.com
 
 ---
 
