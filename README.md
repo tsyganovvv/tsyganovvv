@@ -25,8 +25,6 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=092E20)
 ![Django REST Framework](https://img.shields.io/badge/DRF-090909?style=for-the-badge&logo=django&logoColor=red)
-![Gunicorn](https://img.shields.io/badge/-Gunicorn-090909?style=for-the-badge&logo=gunicorn&logoColor=488214)
-![Uvicorn](https://img.shields.io/badge/-Uvicorn-090909?style=for-the-badge&logo=uvicorn&logoColor=00B0A7)
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=009639)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=336791)
