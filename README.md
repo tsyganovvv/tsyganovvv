@@ -101,7 +101,7 @@ I have hands-on experience in machine learning and data analysis:
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2V1a2V5ZzB5ZzB5ZzB5ZzB5ZzB5ZzB5ZzB5ZzB5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LnQjpWaON8nhr21vNW/giphy.gif" width="200" alt="Connect with me">
 </p>
 
-I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology!
+I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology!!!
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> 
