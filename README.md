@@ -103,6 +103,3 @@ I have hands-on experience in machine learning and data analysis:
 
 I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology!!!
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> 
-</p>
