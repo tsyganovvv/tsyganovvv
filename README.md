@@ -95,7 +95,7 @@ I have hands-on experience in machine learning and data analysis:
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let's Connect!!!
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2V1a2V5ZzB5ZzB5ZzB5ZzB5ZzB5ZzB5ZzB5ZzB5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LnQjpWaON8nhr21vNW/giphy.gif" width="200" alt="Connect with me">
