@@ -11,6 +11,7 @@
 
 - 🎓 I’m currently studying at **Siberian Federal University (SFU)**
 - 💻 My main focus is **Full-Stack development with Django / FastAPI and React**
+- 📱 I build cross-platform mobile applications using React Native
 - 🤖 I'm deeply interested in **Data Analysis, NLP, and Computer Vision**
 - 🐳 I have experience in deploying applications with **Docker, Gunicorn, and Nginx**
 - 🎯 My goal is to build efficient, scalable web applications and intelligent systems
@@ -34,6 +35,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React%20Native-090909?style=for-the-badge&logo=react&logoColor=61DAFB)ы
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
 #### **Data Science & AI/ML**
@@ -72,7 +74,7 @@ I specialize in building complete web applications from the ground up using the 
 - Built RESTful APIs using **Django REST Framework (DRF)**
 - Created fast and efficient APIs with **FastAPI** for real-time applications
 - Designed and implemented database schemas and business logic
-- Creating dynamic user interfaces with React, HTML, CSS, and JavaScript
+- Creating dynamic user interfaces with React, React-Native, HTML, CSS, and JavaScript
 - **Deployed and configured production servers** using **Gunicorn/Uvicorn + Nginx**
 - Containerized applications with **Docker** for consistent deployment
 
