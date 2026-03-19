@@ -91,6 +91,7 @@ I have hands-on experience in machine learning and data analysis:
 
 ### 🌐 Socials
 
+[![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=ffffff)](https://www.github.com/tsyganovvv)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/wudbuw)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id1034524879)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/wudbuw)
